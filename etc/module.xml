@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="..
+	/../../../../lib/internal/Magento/Framework/Module/etc/module.xsd">
+	<module name="Brokenspacebars_HelloWorld" schema_version="0.0.1" setup_version="0.0.1">
+		<!-- Dependencies go here -->
+		<!-- <sequence>
+			<module name="Dependency_Module"/>
+		</sequence> -->
+	</module>
+</config>
